@@ -1,6 +1,6 @@
 <!-- Copyright (c) 2024 Praneeth Vadlapati -->
 
-# <img src="./files/logo_small.png" align="left" width="200" alt="UpdAgent" /> UpdAgent
+# <img src="./files/logo_small.jpg" align="left" width="200" alt="UpdAgent" /> UpdAgent
 
 AI Agent Version Control Framework for Real-Time Updation of Tools
 
